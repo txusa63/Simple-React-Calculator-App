@@ -1,0 +1,12 @@
+.header {
+  padding: 20px;
+  border-style: groove;
+  border-color: teal;
+  text-align: center;
+  background-color: #008080;
+  color: black;
+  font-size: 35px;
+  position:static;
+  font-family: monospace;
+
+}
