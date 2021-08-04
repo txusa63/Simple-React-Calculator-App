@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/txusa63/Simple-React-Calculator-App/issues"
   },
-  "homepage": "https://github.com/txusa63/Simple-React-Calculator-App#readme"
+  "homepage": "https://github.com/txusa63/Simple-React-Calculator-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
