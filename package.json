@@ -1,0 +1,20 @@
+{
+  "name": "Simple-React-Calculator-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txusa63/Simple-React-Calculator-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txusa63/Simple-React-Calculator-App/issues"
+  },
+  "homepage": "https://github.com/txusa63/Simple-React-Calculator-App#readme"
+}
