@@ -3,3 +3,10 @@ The app can delete a previous key entry, clear a current calculation, and delete
 
 Live Demo:
 https://calculator-with-tape-app.herokuapp.com/
+
+Quick Demo:
+
+
+https://user-images.githubusercontent.com/58760137/133909270-f3afb691-42e1-4d56-ab00-45c5766dd3a9.mov
+
+
